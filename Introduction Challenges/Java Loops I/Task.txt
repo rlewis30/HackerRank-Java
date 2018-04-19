@@ -1,2 +1,0 @@
-This is completes the tasks on:
-https://www.hackerrank.com/challenges/java-loops-i/problem
